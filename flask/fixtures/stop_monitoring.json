@@ -1,0 +1,59 @@
+{
+  "Siri": {
+    "ServiceDelivery": {
+      "ResponseTimestamp": "2014-04-13T01:49:24.436-04:00",
+      "SituationExchangeDelivery": [],
+      "StopMonitoringDelivery": [
+        {
+          "MonitoredStopVisit": [
+            {
+              "MonitoredVehicleJourney": {
+                "Bearing": 43.79817,
+                "BlockRef": "MTA NYCT_JG_B4-Sunday_D_JG_4200_B63-102",
+                "DestinationName": "BAY RIDGE SHORE RD via 5 AV",
+                "DestinationRef": "MTA_801042",
+                "DirectionRef": "1",
+                "FramedVehicleJourneyRef": {
+                  "DataFrameRef": "2014-04-13",
+                  "DatedVehicleJourneyRef": "MTA NYCT_JG_B4-Sunday-014000_B63_102"
+                },
+                "JourneyPatternRef": "MTA_B630128",
+                "LineRef": "MTA NYCT_B63",
+                "Monitored": true,
+                "MonitoredCall": {
+                  "Extensions": {
+                    "Distances": {
+                      "CallDistanceAlongRoute": 3153.85,
+                      "DistanceFromCall": 11018.1,
+                      "PresentableDistance": "6.8 miles away",
+                      "StopsFromCall": 53
+                    }
+                  },
+                  "StopPointName": "5 AV/UNION ST",
+                  "StopPointRef": "MTA_308214",
+                  "VisitNumber": 1
+                },
+                "OnwardCalls": {},
+                "OperatorRef": "MTA NYCT",
+                "OriginAimedDepartureTime": "2014-04-13T01:30:00.000-04:00",
+                "OriginRef": "MTA_308616",
+                "ProgressRate": "normalProgress",
+                "ProgressStatus": "prevTrip",
+                "PublishedLineName": "B63",
+                "SituationRef": [],
+                "VehicleLocation": {
+                  "Latitude": 40.642257,
+                  "Longitude": -74.013281
+                },
+                "VehicleRef": "MTA NYCT_396"
+              },
+              "RecordedAtTime": "2014-04-13T01:49:07.000-04:00"
+            }
+          ],
+          "ResponseTimestamp": "2014-04-13T01:49:24.436-04:00",
+          "ValidUntil": "2014-04-13T01:50:24.436-04:00"
+        }
+      ]
+    }
+  }
+}
